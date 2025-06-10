@@ -1,3 +1,3 @@
-module github.com/corazawaf/libinjection-go
+module github.com/loditcodon/libinjection-go
 
 go 1.17
